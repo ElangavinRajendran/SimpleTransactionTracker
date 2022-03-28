@@ -1,0 +1,37 @@
+/*[
+	{
+	     "id": "1",
+	    "type": "credited",
+		"amount": "27000",
+		"description": "Salary credited",
+        "date": "12/3/2021"
+	},
+	{
+        "id": "2",
+	    "type": "debited",
+		"amount": "4002",
+		"description": "Groceries",
+         "date": "12/12/2021"
+	},
+	{
+        "id": "3",
+	    "type": "debited",
+		"amount": "1501",
+		"description": "Tickets",
+         "date": "12/20/2021"
+	},
+	{
+        "id": "4",
+	    "type": "debited",
+		"amount": "720",
+		"description": "Personal",
+         "date": "12/27/2021"
+	},
+	{
+        "id": "5",
+	    "type": "debited",
+		"amount": "5581",
+		"description": "Chat items",
+         "date": "12/30/2021"
+	}
+] */
