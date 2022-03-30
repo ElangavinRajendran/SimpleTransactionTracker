@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SimpleTransactionTracker/static/css/main.cd093bdc.chunk.css",
+    "main.js": "/SimpleTransactionTracker/static/js/main.bb53aa83.chunk.js",
+    "main.js.map": "/SimpleTransactionTracker/static/js/main.bb53aa83.chunk.js.map",
+    "runtime-main.js": "/SimpleTransactionTracker/static/js/runtime-main.a9900c1c.js",
+    "runtime-main.js.map": "/SimpleTransactionTracker/static/js/runtime-main.a9900c1c.js.map",
+    "static/js/2.49970231.chunk.js": "/SimpleTransactionTracker/static/js/2.49970231.chunk.js",
+    "static/js/2.49970231.chunk.js.map": "/SimpleTransactionTracker/static/js/2.49970231.chunk.js.map",
+    "index.html": "/SimpleTransactionTracker/index.html",
+    "static/css/main.cd093bdc.chunk.css.map": "/SimpleTransactionTracker/static/css/main.cd093bdc.chunk.css.map",
+    "static/js/2.49970231.chunk.js.LICENSE.txt": "/SimpleTransactionTracker/static/js/2.49970231.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a9900c1c.js",
+    "static/js/2.49970231.chunk.js",
+    "static/css/main.cd093bdc.chunk.css",
+    "static/js/main.bb53aa83.chunk.js"
+  ]
+}
